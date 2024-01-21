@@ -1,5 +1,5 @@
 # PC ASSEMBLE (LAB)
-On December 6, 2023, we did a PC assemble activity which is a mandatory activity for all students taking the Technology and Information System course. After completing the activity, we have to answer the quiz related to the activity. The activities are carried out according to their respective groups.
+On December 6, 2023, we did a PC assemble activity which is a mandatory activity for all students taking the Technology and Information System course. After completing the activity, we have to answer the quiz related to the activity. The activities are carried out according to the respective groups.
 
 # REFLECTION
 As a computer science student, the PC assembly activity gave me insightful knowledge and practical skills that are essential to my future academic and professional success. It first underlined the value of cooperation and clear communication. Working together with my groupmate to build a PC meant that I had to constantly make sure that every part was connected and positioned correctly.
