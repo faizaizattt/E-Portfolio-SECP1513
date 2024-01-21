@@ -5,7 +5,9 @@ primary objective was to promote innovative teaching and learning practices in e
 Our attendance on November 8 allowed us to engage with presenters from diverse
 backgrounds and countries, gaining valuable insights into education, particularly in the realm
 of ICT—an area specified by our lecturer for our assignment on ICT in teaching and learning
-systems.
+systems. We did some interview to the selected booth and asking some question related to 
+innovative teaching and learning practices in education.
+Interview video : https://youtu.be/Nrk2ljgYRW0?feature=shared
 
 # REFLECTION
 Participating in the NALI 2023 poster exploration has been an eye-opening journey into the exciting world of educational innovation. I had the chance to dive into a variety of posters that showcased how technology and teaching methods come together to improve education. Each poster offered a fresh perspective, featuring cool things like augmented reality in classrooms, AI-powered debates, and even inclusive maze games. It was amazing to see how these initiatives aren't just about using tech for the sake of it but are genuinely focused on making learning more engaging and preparing students for the future.
